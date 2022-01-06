@@ -1,3 +1,0 @@
-Cherry Pick - 
-As the name suggests, this means picking up specific commits, made on a branch. 
-syntAX -  git cherry-pick commit id 
