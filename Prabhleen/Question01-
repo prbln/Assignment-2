@@ -1,0 +1,13 @@
+Cherry Picking is copying certain commits from one branch to another using commit id.
+
+Syntax - git cherry-pick <commit_id>
+
+Steps -
+
+Go to the branch where you want to copy the commit
+Use the git command to copy desired commit using it's commit id
+Find the commit id using got log
+
+
+____________________________________________________________________________________
+
