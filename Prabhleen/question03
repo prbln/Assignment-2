@@ -1,0 +1,6 @@
+git rebase -i HEAD~<number of commits you want to remove>
+
+
+This opens a file and we can add p in front of commits we want to merge and s infornt of the commit in which we want to merge. 
+
+ 

@@ -1,0 +1,9 @@
+Let suppose, 
+
+you breate a branch from master that had 5 commits , while working on your local machine you removed certain commit, and added few others.
+While pushing the code back there will be conflict. to push your local machine code to remote we'll use forcce push. 
+
+As this can lead to a lot of problem as other poeple collaborating will have to update there code. Hence, we should prefer using force push only on our branch 
+
+
+On the other hand, force push with lease makes sure than while force pushing local code to remote repo there were no new chnages in the remote repo. It will raise conflict. 

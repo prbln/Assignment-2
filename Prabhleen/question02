@@ -1,0 +1,6 @@
+Local repo significance 
+1. Managing access
+
+Use case- 
+When working on public repo, not everyone will have rights to add branch or push commits.
+Hence, we use fork and to keep forked up to date we need to multiple remote repository 
