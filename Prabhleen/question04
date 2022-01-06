@@ -1,0 +1,3 @@
+use git reset --hard <commit id > 
+to delete a commit permanantly 
+
